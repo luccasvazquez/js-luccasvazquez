@@ -20,8 +20,8 @@ function solicitar_usuario () {
     
     }
 
+    console.log("Bienvenido/a a nuestro sitio " + usuario)
 }
 
 solicitar_usuario();
 
-console.log("Bienvenido/a a nuestro sitio " + usuario)
